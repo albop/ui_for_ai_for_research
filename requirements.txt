@@ -46,7 +46,7 @@ jupyterlab-language-pack-zh-CN
 # ipyleaflet
 
 # Python: plotting libraries (optional)
-#plotly>=5,<6
-#bqplot
+plotly>=5,<6
+bqplot
 #matplotlib
 #seaborn
